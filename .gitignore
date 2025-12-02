@@ -1,0 +1,27 @@
+﻿# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+target/
+build/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
