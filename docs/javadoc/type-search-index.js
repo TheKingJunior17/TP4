@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.asu.cse360.tp4","l":"SimpleStaffDemo"},{"p":"edu.asu.cse360.tp4","l":"StaffManagementSwingGUI"}];updateSearchResults();
